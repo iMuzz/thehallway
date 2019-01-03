@@ -1,0 +1,19 @@
+{
+  "name": "thehallway",
+  "version": "1.0.0",
+  "description": "The best place to live ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Faraaz Nishtar",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "ui-box": "^1.4.0"
+  }
+}
